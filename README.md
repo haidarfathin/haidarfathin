@@ -7,4 +7,4 @@ I began programming when I was 15 years old, and I'm currently a college student
 - :smile: You can reach me on [Instagram](https://www.instagram.com/darhaidar_/)
 
 ### Skills
-[![My Skills](https://skills.thijs.gg/icons?i=flutter,html,css,php,figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=flutter,html,css,php,python,figma&theme=dark)](https://skills.thijs.gg)
