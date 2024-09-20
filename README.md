@@ -5,7 +5,7 @@ I began programming when I was 15 years old, and I'm currently a college student
 - :earth_asia: I'm lived in Indonesia
 - :rocket: Currently exploring Angular, NextJS and ASP.NET.
 - 🏆 Intermediate level skills: Flutter, Kotlin, Angular
-- :smile: You can reach me on 📫 haidara.works@gmail.com / ![image](https://github.com/user-attachments/assets/6aa8d8ed-c604-406d-ae44-569c31c306ab) https://www.linkedin.com/in/haidarfathin/
+- :smile: You can reach me on 📫 haidara.works@gmail.com / https://www.linkedin.com/in/haidarfathin/
 
 
 ### Skills
